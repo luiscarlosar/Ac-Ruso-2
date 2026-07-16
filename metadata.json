@@ -1,0 +1,6 @@
+{
+  "name": "AC Ruso",
+  "description": "Aplicación de atención al cliente en ruso para tienda de ropa y lencería femenina con más de 200 frases categorized, text-to-speech y generador para AIDE Pro APK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
